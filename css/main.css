@@ -196,7 +196,7 @@ img {
   position: relative;
   width: 50%;
   float: left;
-  background-color: hsla(0, 100%, 100%, 0.5);
+  background-color: hsla(0, 100%, 100%, 0.75);
   border: 1px solid white;
 }
 
